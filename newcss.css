@@ -1,0 +1,52 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 19 Jan, 2023, 1:49:23 PM
+    Author     : Lenovo
+*/
+
+#mymenu
+{
+background-color:rgba(0,0,0,0.4);
+color:white;
+text-align:right;
+}
+
+#mymenu ul li
+{
+display:inline-block;
+padding:25px;
+}
+
+#mymenu ul li:hover
+{
+background-color:blue;
+}
+
+table
+{
+background-color:rgba(0,0,0,0.7);
+color:white;
+box-shadow:10px 10px 10px black;
+}
+
+#data
+{
+margin-top:100px;
+}
+
+.B
+{
+width:85px;
+height:35px;
+background:linear-gradient(red,black);
+color:white;
+}
+
+.B:hover
+{
+background:linear-gradient(to right,red,black);
+}
